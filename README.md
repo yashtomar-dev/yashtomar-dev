@@ -53,5 +53,4 @@ I’m also a huge fan of **animated GIFs**! Here's a random GIF that represents 
 
 ![Profile Views](https://komarev.com/ghpvc/?username=yashtomar-dev&color=blue&style=flat-square)
 
-<!-- Streak Stats - Now placed at the bottom -->
-[![GitHub Streak](https://streak-stats.demolab.com/?user=yashtomar-devh&theme=radical&hide_border=true&fire=DD2727)](https://git.io/streak-stats)
+
